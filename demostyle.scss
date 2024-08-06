@@ -1,0 +1,12 @@
+$mycolor:rgb(197, 148, 148);
+h1{
+    color: $mycolor;
+}
+h2{
+    background-color: $mycolor;
+}
+button{
+    border-color: $mycolor;
+    height: 80px;
+    width: 70px;
+}
